@@ -17,12 +17,12 @@ It is co-developed by **Stanford University** and **DeepLearning.AI**.
 
 ## 🗂️ Repository Structure
 
-Machine_Learning/
-├── week1/ # Labs for Week 1
-├── week2/ # Labs for Week 2
-├── .ipynb_checkpoints/ # Jupyter checkpoint files
-├── pycache/ # Python cache files
-└── README.md # This file
+--Machine_Learning/
+--├── week1/ # Labs for Week 1
+--├── week2/ # Labs for Week 2
+--├── .ipynb_checkpoints/ # Jupyter checkpoint files
+--├── pycache/ # Python cache files
+--└── README.md # This file
 
 
 Each folder contains:
